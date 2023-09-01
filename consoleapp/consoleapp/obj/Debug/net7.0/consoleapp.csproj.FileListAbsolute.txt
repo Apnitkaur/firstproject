@@ -1,0 +1,15 @@
+/Users/sam/Projects/firstproject/consoleapp/consoleapp/obj/Debug/net7.0/consoleapp.csproj.AssemblyReference.cache
+/Users/sam/Projects/firstproject/consoleapp/consoleapp/obj/Debug/net7.0/consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sam/Projects/firstproject/consoleapp/consoleapp/obj/Debug/net7.0/consoleapp.AssemblyInfoInputs.cache
+/Users/sam/Projects/firstproject/consoleapp/consoleapp/obj/Debug/net7.0/consoleapp.AssemblyInfo.cs
+/Users/sam/Projects/firstproject/consoleapp/consoleapp/obj/Debug/net7.0/consoleapp.csproj.CoreCompileInputs.cache
+/Users/sam/Projects/firstproject/consoleapp/consoleapp/bin/Debug/net7.0/consoleapp
+/Users/sam/Projects/firstproject/consoleapp/consoleapp/bin/Debug/net7.0/consoleapp.deps.json
+/Users/sam/Projects/firstproject/consoleapp/consoleapp/bin/Debug/net7.0/consoleapp.runtimeconfig.json
+/Users/sam/Projects/firstproject/consoleapp/consoleapp/bin/Debug/net7.0/consoleapp.dll
+/Users/sam/Projects/firstproject/consoleapp/consoleapp/bin/Debug/net7.0/consoleapp.pdb
+/Users/sam/Projects/firstproject/consoleapp/consoleapp/obj/Debug/net7.0/consoleapp.dll
+/Users/sam/Projects/firstproject/consoleapp/consoleapp/obj/Debug/net7.0/refint/consoleapp.dll
+/Users/sam/Projects/firstproject/consoleapp/consoleapp/obj/Debug/net7.0/consoleapp.pdb
+/Users/sam/Projects/firstproject/consoleapp/consoleapp/obj/Debug/net7.0/consoleapp.genruntimeconfig.cache
+/Users/sam/Projects/firstproject/consoleapp/consoleapp/obj/Debug/net7.0/ref/consoleapp.dll
